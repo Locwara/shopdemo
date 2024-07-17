@@ -1,0 +1,155 @@
+/* index.html */
+.container{
+    background-color: rgba(47, 79, 79, 0.46);
+    margin: auto;
+    max-width: 600px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 50vh;
+    border-radius: 15px;
+}
+
+#nutdn{
+    min-width: 150px;
+    border-radius: 20px;
+    border-width: none;
+    background-color:  #e4eded;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    border-width: 0px;
+    border-style: none;
+}
+#nutdk{
+    min-width: 150px;
+    border-radius: 20px;
+    border-width: none;
+    background-color:  #e4eded;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 3px;
+    border-width: 0px;
+    border-style: none;
+}
+.nut{
+    margin-top: 3px;
+}
+.cacnut{
+    margin-top: 35px;
+    background-color: rgba(47, 79, 79, 0.307);
+    padding: 40px 70px 40px 70px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+
+.hashop h1{
+    border-bottom: 2px solid  rgba(47, 79, 79, 0.46);
+}
+body{
+    background-color: rgba(47, 79, 79, 0.164) ;
+}
+/* dangky.html */
+.container-dkf{
+    min-width: 600px;
+    min-height: 50vh;
+    background-color: rgba(47, 79, 79, 0.46);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0 auto 0 auto;
+    align-items: center;
+    border-radius: 15px;
+    padding-bottom: 10px;
+
+}
+.body-dkf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form{
+    display: flex;
+    margin-top: 5px;
+    background-color: rgba(47, 79, 79, 0.307);
+    padding: 8px;
+    border-radius: 15px;
+}
+.inputform{
+    flex: 1;
+    min-width: 230px;
+    border-radius: 10px;
+    border-width: 0;
+    border-style: none;
+    min-height: 20px;
+    background-color: rgb(209, 218, 218);
+}
+.labelform{
+    min-width: 135px;
+    font-weight: bold;
+}
+.tieude h2{
+    border-bottom: black solid 2px;
+    font-size: 30px;
+}
+.icon-google::before,
+.icon-facebook::before {
+  font-family: "Font Awesome 5 Brands";
+  margin-right: 5px;
+}
+
+.icon-google::before {
+  content: "\f1a0"; 
+  color:   black; 
+}
+
+.icon-facebook::before {
+  content: "\f09a"; 
+  color: black; 
+}
+.ptk-gg a{
+    text-decoration: none;
+}
+.ptk-fb a{
+    text-decoration: none;
+}
+
+#nutdk-dkf{
+    min-width: 150px;
+    max-width: 150px;
+    border-radius: 20px;
+    border-width: none;
+    background-color:  #e4eded;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 3px;
+    border-width: 0px;
+    border-style: none;
+}
+.cacnut-dkf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cacptk{
+    display: flex;
+    margin-top: 10px;
+ 
+}
+.ptk-fb{
+    margin-left: 20px;
+}
+.ptk{
+    padding: 8px;
+    background-color: #e4eded;
+    border-radius: 15px;
+    border-style: none;
+    border-width: 0;
+    font-weight: bold;
+}
